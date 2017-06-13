@@ -1,0 +1,33 @@
+16:45:31   Materias_Alumno(3,112)
+16:47:44   Materias_Alumno(3,112)
+16:47:50   Materias_Alumno(34,112)
+18:35:29   Materias_Alumno(34,112)
+20:13:15   Materias_Alumno(34,112)
+20:13:20   Materias_Alumno(34,112)
+20:13:23   Materias_Alumno(34,112)
+20:13:35   Materias_Alumno(65,112)
+20:48:26   Materias_Alumno(65,112)
+20:48:26   Ha surgido un error al ejecutar SP en base de datos. getMessage(): SQLSTATE[42000]: [Microsoft][ODBC Driver 13 for SQL Server][SQL Server]El procedimiento o la función 'Materias_Alumno' esperaba el parámetro '@anio_lectivo', que no se ha especificado.
+   Detalle getTraceAsString: #0 C:\xampp7\htdocs\Alumnado\Class\database.php(203): PDOStatement->execute()
+#1 C:\xampp7\htdocs\Alumnado\controllers\inscripcion_rendir2.php(22): database->jsonSP('Materias_Alumno...')
+#2 {main}
+   Detalle getFile(): C:\xampp7\htdocs\Alumnado\Class\database.php
+   Detalle getLine(): 203
+   Detalle getCode(): 42000
+   Scrip: Materias_Alumno(65,112)
+
+20:48:26   Error en inscripcion_rendir2: Al consultar base y generar json
+20:51:01   Materias_Alumno(20,200,2017)
+20:54:38   Materias_Alumno(20,200,2017)
+21:14:09   Materias_Alumno(20,200,2017)
+21:14:17   Materias_Alumno(20,200,0)
+21:19:26   Materias_Alumno(20,200,0)
+21:19:45   Materias_Alumno(20,200,2017)
+21:21:24   Materias_Alumno(20,200,2017)
+21:21:30   Materias_Alumno(20,200,0)
+21:22:40   Materias_Alumno(20,200,0)
+21:37:39   Materias_Alumno(20,200,0)
+21:39:09   Materias_Alumno(20,200,0)
+21:41:18   Materias_Alumno(20,200,2017)
+21:46:51   Materias_Alumno(20,200,2017)
+21:47:31   Materias_Alumno(56,200,2017)

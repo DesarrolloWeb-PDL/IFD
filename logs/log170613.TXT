@@ -1,0 +1,118 @@
+00:02:15   SELECT apellido,Nombres,DNI,Id FROM Profesores  where 1=1 order by apellido
+00:03:30   Materias_Alumno(20,200,2017)
+00:03:30   Ha surgido un error al ejecutar SP en base de datos. getMessage(): SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE alumnado.Materias_Alumno does not exist
+   Detalle getTraceAsString: #0 C:\xampp\htdocs\nuevo\Alumnado\Class\database.php(203): PDOStatement->execute()
+#1 C:\xampp\htdocs\nuevo\Alumnado\controllers\inscripcion_rendir2.php(22): database->jsonSP('Materias_Alumno...')
+#2 {main}
+   Detalle getFile(): C:\xampp\htdocs\nuevo\Alumnado\Class\database.php
+   Detalle getLine(): 203
+   Detalle getCode(): 42000
+   Scrip: Materias_Alumno(20,200,2017)
+
+00:03:30   Error en inscripcion_rendir2: Al consultar base y generar json
+00:15:37   Materias_Alumno(20,200,2017)
+00:15:37   Ha surgido un error al ejecutar SP en base de datos. getMessage(): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'alumnado.duracionmat' doesn't exist
+   Detalle getTraceAsString: #0 C:\xampp\htdocs\nuevo\Alumnado\Class\database.php(203): PDOStatement->execute()
+#1 C:\xampp\htdocs\nuevo\Alumnado\controllers\inscripcion_rendir2.php(22): database->jsonSP('Materias_Alumno...')
+#2 {main}
+   Detalle getFile(): C:\xampp\htdocs\nuevo\Alumnado\Class\database.php
+   Detalle getLine(): 203
+   Detalle getCode(): 42S02
+   Scrip: Materias_Alumno(20,200,2017)
+
+00:15:38   Error en inscripcion_rendir2: Al consultar base y generar json
+00:16:44   Materias_Alumno(20,200,2017)
+00:16:44   Ha surgido un error al ejecutar SP en base de datos. getMessage(): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'alumnado.duracionmat' doesn't exist
+   Detalle getTraceAsString: #0 C:\xampp\htdocs\nuevo\Alumnado\Class\database.php(203): PDOStatement->execute()
+#1 C:\xampp\htdocs\nuevo\Alumnado\controllers\inscripcion_rendir2.php(22): database->jsonSP('Materias_Alumno...')
+#2 {main}
+   Detalle getFile(): C:\xampp\htdocs\nuevo\Alumnado\Class\database.php
+   Detalle getLine(): 203
+   Detalle getCode(): 42S02
+   Scrip: Materias_Alumno(20,200,2017)
+
+00:16:44   Error en inscripcion_rendir2: Al consultar base y generar json
+00:23:07   Materias_Alumno(20,200,2017)
+00:23:07   Ha surgido un error al ejecutar SP en base de datos. getMessage(): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'alumnado.duracionmat' doesn't exist
+   Detalle getTraceAsString: #0 C:\xampp\htdocs\nuevo\Alumnado\Class\database.php(203): PDOStatement->execute()
+#1 C:\xampp\htdocs\nuevo\Alumnado\controllers\inscripcion_rendir2.php(22): database->jsonSP('Materias_Alumno...')
+#2 {main}
+   Detalle getFile(): C:\xampp\htdocs\nuevo\Alumnado\Class\database.php
+   Detalle getLine(): 203
+   Detalle getCode(): 42S02
+   Scrip: Materias_Alumno(20,200,2017)
+
+00:23:08   Error en inscripcion_rendir2: Al consultar base y generar json
+00:24:12   Materias_Alumno(20,200,2017)
+00:24:12   Ha surgido un error al ejecutar SP en base de datos. getMessage(): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'alumnado.duracionmat' doesn't exist
+   Detalle getTraceAsString: #0 C:\xampp\htdocs\nuevo\Alumnado\Class\database.php(203): PDOStatement->execute()
+#1 C:\xampp\htdocs\nuevo\Alumnado\controllers\inscripcion_rendir2.php(22): database->jsonSP('Materias_Alumno...')
+#2 {main}
+   Detalle getFile(): C:\xampp\htdocs\nuevo\Alumnado\Class\database.php
+   Detalle getLine(): 203
+   Detalle getCode(): 42S02
+   Scrip: Materias_Alumno(20,200,2017)
+
+00:24:12   Error en inscripcion_rendir2: Al consultar base y generar json
+00:24:23   Materias_Alumno(20,200,2017)
+00:24:23   Ha surgido un error al ejecutar SP en base de datos. getMessage(): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'alumnado.materiaaprobada' doesn't exist
+   Detalle getTraceAsString: #0 C:\xampp\htdocs\nuevo\Alumnado\Class\database.php(203): PDOStatement->execute()
+#1 C:\xampp\htdocs\nuevo\Alumnado\controllers\inscripcion_rendir2.php(22): database->jsonSP('Materias_Alumno...')
+#2 {main}
+   Detalle getFile(): C:\xampp\htdocs\nuevo\Alumnado\Class\database.php
+   Detalle getLine(): 203
+   Detalle getCode(): 42S02
+   Scrip: Materias_Alumno(20,200,2017)
+
+00:24:23   Error en inscripcion_rendir2: Al consultar base y generar json
+00:25:08   Materias_Alumno(20,200,2017)
+00:25:08   Ha surgido un error al ejecutar SP en base de datos. getMessage(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'duracionmat.id' in 'on clause'
+   Detalle getTraceAsString: #0 C:\xampp\htdocs\nuevo\Alumnado\Class\database.php(203): PDOStatement->execute()
+#1 C:\xampp\htdocs\nuevo\Alumnado\controllers\inscripcion_rendir2.php(22): database->jsonSP('Materias_Alumno...')
+#2 {main}
+   Detalle getFile(): C:\xampp\htdocs\nuevo\Alumnado\Class\database.php
+   Detalle getLine(): 203
+   Detalle getCode(): 42S22
+   Scrip: Materias_Alumno(20,200,2017)
+
+00:25:08   Error en inscripcion_rendir2: Al consultar base y generar json
+00:25:48   Materias_Alumno(20,200,2017)
+00:25:50   Materias_Alumno(20,200,2017)
+00:25:51   Materias_Alumno(20,200,2017)
+00:25:52   Materias_Alumno(20,200,2017)
+00:28:50   Materias_Alumno(3,1,2017)
+00:30:39   Materias_Alumno(3,1,2017)
+00:50:45   Materias_Alumno(3,1,2017)
+00:53:51   Materias_Alumno(3,1,2017)
+01:05:22   Materias_Alumno(3,1,2017)
+01:05:38   Materias_Alumno(3,1,2017)
+01:06:03   Materias_Alumno(3,1,2017)
+01:06:54   Materias_Alumno(3,1,2017)
+01:09:32   Materias_Alumno(3,1,2017)
+01:09:59   Materias_Alumno(3,1,2017)
+01:10:32   Materias_Alumno(3,1,2017)
+01:11:44   Materias_Alumno(3,1,2017)
+01:14:34   Materias_Alumno(3,1,2017)
+01:46:35   Materias_Alumno(3,1,2017)
+01:46:49   Materias_Alumno(3,1,2017)
+01:47:30   Materias_Alumno(3,1,2017)
+02:02:30   Materias_Alumno(3,1,2017)
+02:03:39   Materias_Alumno(3,1,2017)
+02:04:43   Materias_Alumno(3,1,2017)
+02:05:58   Materias_Alumno(3,1,2017)
+02:08:20   Materias_Alumno(3,1,2017)
+02:11:22   Materias_Alumno(3,1,2017)
+02:11:25   Materias_Alumno(3,1,2017)
+02:13:24   Materias_Alumno(3,1,2017)
+02:16:22   Materias_Alumno(3,1,2017)
+02:19:05   Materias_Alumno(3,1,2017)
+02:20:00   Materias_Alumno(3,1,2017)
+02:20:36   Materias_Alumno(3,1,2017)
+02:21:37   Materias_Alumno(3,1,2017)
+02:22:46   Materias_Alumno(3,1,2017)
+02:25:14   Materias_Alumno(3,1,2017)
+02:29:10   Materias_Alumno(3,1,2017)
+02:30:40   Materias_Alumno(3,1,2017)
+02:31:29   Materias_Alumno(3,1,2017)
+02:32:29   Materias_Alumno(3,1,2017)
+02:37:51   Materias_Alumno(3,1,2017)

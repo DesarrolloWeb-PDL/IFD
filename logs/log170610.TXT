@@ -1,0 +1,300 @@
+06:42:42   44SQL Server NativeACERNOTE
+06:42:42   User:ranClave:belenroge7
+06:42:57   Ha surgido un error y no se puede conectar a la base de datos. getMessage(): SQLSTATE[08001] SQLDriverConnect: 14 [Microsoft][ODBC SQL Server Driver][DBMSLPCN]Conexión no válida.
+   Detalle getTraceAsString: #0 C:\xampp7\htdocs\Alumnado\Class\database.php(41): PDO->__construct('odbc:Driver={SQ...')
+#1 C:\xampp7\htdocs\Alumnado\controllers\profesores2.php(15): database->__construct('alumnado')
+#2 {main}
+   Detalle getFile(): C:\xampp7\htdocs\Alumnado\Class\database.php
+   Detalle getLine(): 41
+   Detalle errorInfo: 
+   Ruta: 
+06:42:57   Error en Profesores2: Al Conectar base
+06:58:49   44SQL Server NativeACERNOTE
+06:58:49   User:ranClave:belenroge7
+06:59:05   Ha surgido un error y no se puede conectar a la base de datos. getMessage(): SQLSTATE[08001] SQLDriverConnect: 14 [Microsoft][ODBC SQL Server Driver][DBMSLPCN]Conexión no válida.
+   Detalle getTraceAsString: #0 C:\xampp7\htdocs\Alumnado\Class\database.php(41): PDO->__construct('odbc:Driver={SQ...')
+#1 C:\xampp7\htdocs\Alumnado\controllers\profesores2.php(15): database->__construct('alumnado')
+#2 {main}
+   Detalle getFile(): C:\xampp7\htdocs\Alumnado\Class\database.php
+   Detalle getLine(): 41
+   Detalle errorInfo: 
+   Ruta: 
+06:59:05   Error en Profesores2: Al Conectar base
+07:04:36   44SQL Server NativeACERNOTE
+07:04:36   User:ranClave:belenroge7
+07:04:51   Ha surgido un error y no se puede conectar a la base de datos. getMessage(): SQLSTATE[08001] SQLDriverConnect: 14 [Microsoft][ODBC SQL Server Driver][DBMSLPCN]Conexión no válida.
+   Detalle getTraceAsString: #0 C:\xampp7\htdocs\Alumnado\Class\database.php(41): PDO->__construct('odbc:Driver={SQ...')
+#1 C:\xampp7\htdocs\Alumnado\controllers\profesores2.php(15): database->__construct('alumnado')
+#2 {main}
+   Detalle getFile(): C:\xampp7\htdocs\Alumnado\Class\database.php
+   Detalle getLine(): 41
+   Detalle errorInfo: 
+   Ruta: 
+07:04:51   Error en Profesores2: Al Conectar base
+07:08:45   44SQL Server NativeACERNOTE
+07:08:45   User:ranClave:belenroge7
+07:08:45   Ha surgido un error y no se puede conectar a la base de datos. getMessage(): could not find driver
+   Detalle getTraceAsString: #0 C:\xampp7\htdocs\Alumnado\Class\database.php(43): PDO->__construct('sqlsrv:server=A...', 'ran', 'belenroge7')
+#1 C:\xampp7\htdocs\Alumnado\controllers\profesores2.php(15): database->__construct('alumnado')
+#2 {main}
+   Detalle getFile(): C:\xampp7\htdocs\Alumnado\Class\database.php
+   Detalle getLine(): 43
+   Detalle errorInfo: 
+   Ruta: 
+07:08:45   Error en Profesores2: Al Conectar base
+07:08:52   44SQL Server NativeACERNOTE
+07:08:52   User:ranClave:belenroge7
+07:08:52   Ha surgido un error y no se puede conectar a la base de datos. getMessage(): could not find driver
+   Detalle getTraceAsString: #0 C:\xampp7\htdocs\Alumnado\Class\database.php(43): PDO->__construct('sqlsrv:server=A...', 'ran', 'belenroge7')
+#1 C:\xampp7\htdocs\Alumnado\controllers\profesores2.php(15): database->__construct('alumnado')
+#2 {main}
+   Detalle getFile(): C:\xampp7\htdocs\Alumnado\Class\database.php
+   Detalle getLine(): 43
+   Detalle errorInfo: 
+   Ruta: 
+07:08:52   Error en Profesores2: Al Conectar base
+07:09:53   44SQL Server NativeACERNOTE
+07:09:53   User:ranClave:belenroge7
+07:09:54   Ha surgido un error y no se puede conectar a la base de datos. getMessage(): could not find driver
+   Detalle getTraceAsString: #0 C:\xampp7\htdocs\Alumnado\Class\database.php(58): PDO->__construct('sqlsrv:host=ACE...', 'ran', 'belenroge7')
+#1 C:\xampp7\htdocs\Alumnado\controllers\profesores2.php(15): database->__construct('alumnado')
+#2 {main}
+   Detalle getFile(): C:\xampp7\htdocs\Alumnado\Class\database.php
+   Detalle getLine(): 58
+   Detalle errorInfo: 
+   Ruta: 
+07:09:54   Error en Profesores2: Al Conectar base
+07:10:00   44SQL Server NativeACERNOTE
+07:10:00   User:ranClave:belenroge7
+07:10:00   Ha surgido un error y no se puede conectar a la base de datos. getMessage(): could not find driver
+   Detalle getTraceAsString: #0 C:\xampp7\htdocs\Alumnado\Class\database.php(58): PDO->__construct('sqlsrv:host=ACE...', 'ran', 'belenroge7')
+#1 C:\xampp7\htdocs\Alumnado\controllers\profesores2.php(15): database->__construct('alumnado')
+#2 {main}
+   Detalle getFile(): C:\xampp7\htdocs\Alumnado\Class\database.php
+   Detalle getLine(): 58
+   Detalle errorInfo: 
+   Ruta: 
+07:10:00   Error en Profesores2: Al Conectar base
+07:11:15   44SQL Server NativeACERNOTE
+07:11:15   User:ranClave:belenroge7
+07:11:15   Ha surgido un error y no se puede conectar a la base de datos. getMessage(): could not find driver
+   Detalle getTraceAsString: #0 C:\xampp7\htdocs\Alumnado\Class\database.php(58): PDO->__construct('sqlsrv:host=ACE...', 'ran', 'belenroge7')
+#1 C:\xampp7\htdocs\Alumnado\controllers\profesores2.php(15): database->__construct('alumnado')
+#2 {main}
+   Detalle getFile(): C:\xampp7\htdocs\Alumnado\Class\database.php
+   Detalle getLine(): 58
+   Detalle errorInfo: 
+   Ruta: 
+07:11:15   Error en Profesores2: Al Conectar base
+07:11:20   44SQL Server NativeACERNOTE
+07:11:20   User:ranClave:belenroge7
+07:11:20   Ha surgido un error y no se puede conectar a la base de datos. getMessage(): could not find driver
+   Detalle getTraceAsString: #0 C:\xampp7\htdocs\Alumnado\Class\database.php(58): PDO->__construct('sqlsrv:host=ACE...', 'ran', 'belenroge7')
+#1 C:\xampp7\htdocs\Alumnado\controllers\profesores2.php(15): database->__construct('alumnado')
+#2 {main}
+   Detalle getFile(): C:\xampp7\htdocs\Alumnado\Class\database.php
+   Detalle getLine(): 58
+   Detalle errorInfo: 
+   Ruta: 
+07:11:20   Error en Profesores2: Al Conectar base
+07:12:10   44SQL Server NativeACERNOTE
+07:12:10   User:ranClave:belenroge7
+07:12:10   Ha surgido un error y no se puede conectar a la base de datos. getMessage(): could not find driver
+   Detalle getTraceAsString: #0 C:\xampp7\htdocs\Alumnado\Class\database.php(43): PDO->__construct('sqlsrv:server=A...', 'ran', 'belenroge7')
+#1 C:\xampp7\htdocs\Alumnado\controllers\profesores2.php(15): database->__construct('alumnado')
+#2 {main}
+   Detalle getFile(): C:\xampp7\htdocs\Alumnado\Class\database.php
+   Detalle getLine(): 43
+   Detalle errorInfo: 
+   Ruta: 
+07:12:10   Error en Profesores2: Al Conectar base
+07:13:52   44SQL Server NativeACERNOTE
+07:13:52   User:ranClave:belenroge7
+07:13:52   Ha surgido un error y no se puede conectar a la base de datos. getMessage(): SQLSTATE[IMSSP]: An invalid keyword 'host' was specified in the DSN string.
+   Detalle getTraceAsString: #0 C:\xampp7\htdocs\Alumnado\Class\database.php(58): PDO->__construct('sqlsrv:host=ACE...', 'ran', 'belenroge7')
+#1 C:\xampp7\htdocs\Alumnado\controllers\profesores2.php(15): database->__construct('alumnado')
+#2 {main}
+   Detalle getFile(): C:\xampp7\htdocs\Alumnado\Class\database.php
+   Detalle getLine(): 58
+   Detalle errorInfo: Array
+   Ruta: 
+07:13:52   Error en Profesores2: Al Conectar base
+07:14:27   44SQL Server NativeACERNOTE
+07:14:27   User:ranClave:belenroge7
+07:18:20   44SQL Server NativeACERNOTE
+07:18:20   User:ranClave:belenroge7
+07:18:36   Ha surgido un error y no se puede conectar a la base de datos. getMessage(): SQLSTATE[08001] SQLDriverConnect: 14 [Microsoft][ODBC SQL Server Driver][DBMSLPCN]Conexión no válida.
+   Detalle getTraceAsString: #0 C:\xampp7\htdocs\Alumnado\Class\database.php(41): PDO->__construct('odbc:Driver={SQ...')
+#1 C:\xampp7\htdocs\Alumnado\controllers\profesores2.php(15): database->__construct('alumnado')
+#2 {main}
+   Detalle getFile(): C:\xampp7\htdocs\Alumnado\Class\database.php
+   Detalle getLine(): 41
+   Detalle errorInfo: 
+   Ruta: 
+07:18:36   Error en Profesores2: Al Conectar base
+07:20:01   44SQL Server NativeACERNOTE
+07:20:01   User:ranClave:belenroge7
+07:20:01   Ha surgido un error y no se puede conectar a la base de datos. getMessage(): invalid data source name
+   Detalle getTraceAsString: #0 C:\xampp7\htdocs\Alumnado\Class\database.php(40): PDO->__construct('alumnadoMSSQL2', 'ran', 'belenroge7')
+#1 C:\xampp7\htdocs\Alumnado\controllers\profesores2.php(15): database->__construct('alumnado')
+#2 {main}
+   Detalle getFile(): C:\xampp7\htdocs\Alumnado\Class\database.php
+   Detalle getLine(): 40
+   Detalle errorInfo: 
+   Ruta: 
+07:20:01   Error en Profesores2: Al Conectar base
+07:20:28   44SQL Server NativeACERNOTE
+07:20:28   User:ranClave:belenroge7
+07:23:50   44SQL Server NativeACERNOTE
+07:23:50   User:ranClave:belenroge7
+07:24:05   Ha surgido un error y no se puede conectar a la base de datos. getMessage(): SQLSTATE[08001]: [Microsoft][ODBC Driver 11 for SQL Server]SQL Server Network Interfaces: Connection string is not valid [87]. 
+   Detalle getTraceAsString: #0 C:\xampp7\htdocs\Alumnado\Class\database.php(43): PDO->__construct('sqlsrv:server=A...', 'ran', 'belenroge7')
+#1 C:\xampp7\htdocs\Alumnado\controllers\profesores2.php(15): database->__construct('alumnado')
+#2 {main}
+   Detalle getFile(): C:\xampp7\htdocs\Alumnado\Class\database.php
+   Detalle getLine(): 43
+   Detalle errorInfo: Array
+   Ruta: 
+07:24:05   Error en Profesores2: Al Conectar base
+07:27:17   44SQL Server NativeACERNOTE
+07:27:17   User:ranClave:belenroge7
+07:27:23   44SQL Server NativeACERNOTE
+07:27:23   User:ranClave:belenroge7
+07:27:29   44SQL Server NativeACERNOTE
+07:27:29   User:ranClave:belenroge7
+07:28:00   44SQL Server NativeACERNOTE
+07:28:00   User:ranClave:belenroge7
+07:28:22   44SQL Server NativeACERNOTE
+07:28:22   User:ranClave:belenroge7
+07:28:37   Ha surgido un error y no se puede conectar a la base de datos. getMessage(): SQLSTATE[08001]: [Microsoft][ODBC Driver 11 for SQL Server]SQL Server Network Interfaces: Connection string is not valid [87]. 
+   Detalle getTraceAsString: #0 C:\xampp7\htdocs\Alumnado\Class\database.php(43): PDO->__construct('sqlsrv:server=A...', 'ran', 'belenroge7')
+#1 C:\xampp7\htdocs\Alumnado\controllers\profesores2.php(15): database->__construct('alumnado')
+#2 {main}
+   Detalle getFile(): C:\xampp7\htdocs\Alumnado\Class\database.php
+   Detalle getLine(): 43
+   Detalle errorInfo: Array
+   Ruta: 
+07:28:37   Error en Profesores2: Al Conectar base
+07:29:00   44SQL Server NativeACERNOTE
+07:29:00   User:ranClave:belenroge7
+07:29:09   44SQL Server NativeACERNOTE
+07:29:09   User:ranClave:belenroge7
+07:41:22   44SQL Server NativeACERNOTE
+07:41:22   User:ranClave:belenroge7
+07:41:37   Ha surgido un error y no se puede conectar a la base de datos. getMessage(): SQLSTATE[08001]: [Microsoft][ODBC Driver 11 for SQL Server]SQL Server Network Interfaces: Connection string is not valid [87]. 
+   Detalle getTraceAsString: #0 C:\xampp7\htdocs\Alumnado\Class\database.php(43): PDO->__construct('sqlsrv:server=A...', 'ran', 'belenroge7')
+#1 C:\xampp7\htdocs\Alumnado\controllers\profesores2.php(15): database->__construct('alumnado')
+#2 {main}
+   Detalle getFile(): C:\xampp7\htdocs\Alumnado\Class\database.php
+   Detalle getLine(): 43
+   Detalle errorInfo: Array
+   Ruta: 
+07:41:37   Error en Profesores2: Al Conectar base
+07:49:06   44SQL Server NativeACERNOTE
+07:49:06   User:ranClave:belenroge7
+07:49:21   Ha surgido un error y no se puede conectar a la base de datos. getMessage(): SQLSTATE[08001] SQLDriverConnect: 14 [Microsoft][ODBC SQL Server Driver][DBMSLPCN]Conexión no válida.
+   Detalle getTraceAsString: #0 C:\xampp7\htdocs\Alumnado\Class\database.php(41): PDO->__construct('odbc:Driver={SQ...')
+#1 C:\xampp7\htdocs\Alumnado\controllers\profesores2.php(15): database->__construct('alumnado')
+#2 {main}
+   Detalle getFile(): C:\xampp7\htdocs\Alumnado\Class\database.php
+   Detalle getLine(): 41
+   Detalle errorInfo: 
+   Ruta: 
+07:49:21   Error en Profesores2: Al Conectar base
+07:55:54   44SQL Server NativeACERNOTE
+07:55:54   User:ranClave:belenroge7
+07:56:11   Ha surgido un error y no se puede conectar a la base de datos. getMessage(): SQLSTATE[08001] SQLDriverConnect: 14 [Microsoft][ODBC SQL Server Driver][DBMSLPCN]Conexión no válida.
+   Detalle getTraceAsString: #0 C:\xampp7\htdocs\Alumnado\Class\database.php(41): PDO->__construct('odbc:Driver={SQ...')
+#1 C:\xampp7\htdocs\Alumnado\controllers\profesores2.php(15): database->__construct('alumnado')
+#2 {main}
+   Detalle getFile(): C:\xampp7\htdocs\Alumnado\Class\database.php
+   Detalle getLine(): 41
+   Detalle errorInfo: 
+   Ruta: 
+07:56:11   Error en Profesores2: Al Conectar base
+07:56:44   44SQL Server NativeACERNOTE
+07:56:44   User:ranClave:belenroge7
+07:57:00   44SQL Server NativeACERNOTE
+07:57:00   User:ranClave:belenroge7
+07:57:15   Ha surgido un error y no se puede conectar a la base de datos. getMessage(): SQLSTATE[08001]: [Microsoft][ODBC Driver 13 for SQL Server]Interfaces de red SQL Server: La cadena de conexiÃ³n no es vÃ¡lida [87]. 
+   Detalle getTraceAsString: #0 C:\xampp7\htdocs\Alumnado\Class\database.php(45): PDO->__construct('sqlsrv:server=A...', 'ran', 'belenroge6')
+#1 C:\xampp7\htdocs\Alumnado\controllers\profesores2.php(15): database->__construct('alumnado')
+#2 {main}
+   Detalle getFile(): C:\xampp7\htdocs\Alumnado\Class\database.php
+   Detalle getLine(): 45
+   Detalle errorInfo: Array
+   Ruta: 
+07:57:15   Error en Profesores2: Al Conectar base
+08:15:42   44SQL Server NativeACERNOTE
+08:15:42   User:ranClave:belenroge7
+08:15:48   44SQL Server NativeACERNOTE
+08:15:48   User:ranClave:belenroge7
+17:31:56   44SQL Server NativeACERNOTE
+17:31:56   User:ranClave:belenroge7
+17:31:57   Ha surgido un error y no se puede conectar a la base de datos. getMessage(): SQLSTATE[IM014] SQLConnect: 0 [Microsoft][Administrador de controladores ODBC] La arquitectura del DSN especificado no coincide entre el controlador y la aplicación.
+   Detalle getTraceAsString: #0 C:\xampp7\htdocs\Alumnado\Class\database.php(40): PDO->__construct('odbc:alumnadoMS...', 'ran', 'belenroge7')
+#1 C:\xampp7\htdocs\Alumnado\controllers\profesores2.php(15): database->__construct('alumnado')
+#2 {main}
+   Detalle getFile(): C:\xampp7\htdocs\Alumnado\Class\database.php
+   Detalle getLine(): 40
+   Detalle errorInfo: 
+   Ruta: 
+17:31:57   Error en Profesores2: Al Conectar base
+17:33:50   44SQL Server NativeACERNOTE
+17:33:50   User:ranClave:belenroge7
+17:35:08   44SQL Server NativeACERNOTE
+17:35:08   User:ranClave:belenroge7
+17:39:20   44SQL Server NativeACERNOTE
+17:39:20   User:ranClave:belenroge7
+17:39:20   MySql: ACERNOTE\MSSQLSERVER
+17:45:13   44SQL Server NativeACERNOTE
+17:45:13   User:ranClave:belenroge7
+17:45:13   SELECT apellido,Nombres,DNI,Id FROM Profesores  where 1=1 order by apellido
+17:46:17   44SQL Server NativeACERNOTE
+17:46:17   User:ranClave:belenroge7
+17:47:14   44SQL Server NativeACERNOTE
+17:47:14   User:ranClave:belenroge7
+17:47:29   Ha surgido un error y no se puede conectar a la base de datos. getMessage(): SQLSTATE[08001] SQLDriverConnect: 14 [Microsoft][ODBC SQL Server Driver][DBMSLPCN]Conexión no válida.
+   Detalle getTraceAsString: #0 C:\xampp7\htdocs\Alumnado\Class\database.php(42): PDO->__construct('odbc:Driver={SQ...')
+#1 C:\xampp7\htdocs\Alumnado\controllers\profesores2.php(15): database->__construct('alumnado')
+#2 {main}
+   Detalle getFile(): C:\xampp7\htdocs\Alumnado\Class\database.php
+   Detalle getLine(): 42
+   Detalle errorInfo: 
+   Ruta: 
+17:47:29   Error en Profesores2: Al Conectar base
+17:49:40   Ha surgido un error y no se puede conectar a la base de datos. getMessage(): SQLSTATE[28000]: [Microsoft][ODBC Driver 13 for SQL Server][SQL Server]Error de inicio de sesiÃ³n del usuario 'ran'.
+   Detalle getTraceAsString: #0 C:\xampp7\htdocs\Alumnado\Class\database.php(29): PDO->__construct('sqlsrv:server=A...', 'ran', 'belenroge6')
+#1 C:\xampp7\htdocs\Alumnado\controllers\profesores2.php(15): database->__construct('alumnado')
+#2 {main}
+   Detalle getFile(): C:\xampp7\htdocs\Alumnado\Class\database.php
+   Detalle getLine(): 29
+   Detalle errorInfo: Array
+   Ruta: 
+17:49:40   Error en Profesores2: Al Conectar base
+17:50:37   44SQL Server NativeACERNOTE
+17:50:37   User:ranClave:belenroge7
+17:50:37   SELECT apellido,Nombres,DNI,Id FROM Profesores  where 1=1 order by apellido
+17:51:23   44SQL Server NativeACERNOTE
+17:51:23   User:ranClave:belenroge7
+17:51:23   SELECT apellido,Nombres,DNI,Id FROM Profesores  where 1=1 order by apellido
+17:51:32   44SQL Server NativeACERNOTE
+17:51:32   User:ranClave:belenroge7
+17:51:32   SELECT apellido,Nombres,DNI,Id FROM Profesores  where 1=1 AND apellido LIKE '%nie%'  order by apellido
+17:52:37   Ha surgido un error y no se puede conectar a la base de datos. getMessage(): SQLSTATE[HY000] [1049] Unknown database 'alumnadoifd'
+   Detalle getTraceAsString: #0 C:\xampp7\htdocs\Alumnado\Class\database.php(62): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp7\htdocs\Alumnado\controllers\profesores2.php(15): database->__construct('alumnado')
+#2 {main}
+   Detalle getFile(): C:\xampp7\htdocs\Alumnado\Class\database.php
+   Detalle getLine(): 62
+   Detalle errorInfo: 
+   Ruta: 
+17:52:37   Error en Profesores2: Al Conectar base
+17:55:23   SELECT apellido,Nombres,DNI,Id FROM Profesores  where 1=1 AND apellido LIKE '%nie%'  order by apellido
+17:55:28   SELECT apellido,Nombres,DNI,Id FROM Profesores  where 1=1 order by apellido
+17:56:18   SELECT apellido,Nombres,DNI,Id FROM Profesores  where 1=1 order by apellido
+17:57:10   44SQL Server NativeACERNOTE
+17:57:10   User:ranClave:belenroge7
+17:57:11   SELECT apellido,Nombres,DNI,Id FROM Profesores  where 1=1 order by apellido
+18:14:52   SELECT apellido,Nombres,DNI,Id FROM Profesores  where 1=1 order by apellido
+13:23:34   SELECT apellido,Nombres,DNI,Id FROM Profesores  where 1=1 order by apellido

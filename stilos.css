@@ -1,0 +1,20 @@
+
+    .modal-header{
+        background: #79f568;
+      }
+      .modal-footer{
+        
+      }
+      .btn{
+         background: #79f568;
+         color: black;
+         border-radius: 0;
+      }
+      .panel{
+         color: black;
+         border-radius: 0;
+         border-color: black;
+      }
+      .panel-info .panel-heading{
+         background: #79f568;
+      }
