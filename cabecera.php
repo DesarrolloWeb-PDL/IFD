@@ -35,11 +35,11 @@
 
     <script src="../js/bootstrap-select.min.js"></script>
     <script src="../js/bootstrap-table.min.js"></script>
-    <script src="../js/bootstrap-table-es-ES.js"></script>  <!-- Para traducir los mensajes al espa�ol -->
+    <script src="../js/bootstrap-table-es-ES.js"></script>  <!-- Para traducir los mensajes al español -->
 
     <script src="../js/formvalidation.min.js"></script>
     <script src="../js/validation/bootstrap.min.js"></script>
-    <script src="../js/language/es_ES.js"></script>  <!-- Para traducir los mensajes al espa�ol -->
+    <script src="../js/language/es_ES.js"></script>  <!-- Para traducir los mensajes al español -->
     <script src="../js/bootstrap-button.js"></script>
     
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
@@ -50,6 +50,30 @@
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="../js/ie-emulation-modes-warning.js"></script>
 
+  <style type="text/css">
+    .modal-header{
+        background: #79f568;
+       
+      }
+      .modal-footer{
+        
+      }
+      .btn{
+         background: #79f568;
+         color: black;
+         border-radius: 0;
+         border-color: black;
+      }
+      .panel{
+         color: black;
+         border-radius: 0;
+         border-color: black;
+      }
+      .panel-info .panel-heading{
+         background: #79f568;
+         color: black;
+      }
+  </style>
 
   </head>
 
@@ -94,7 +118,7 @@
   <div class="modal fade" id="modalerror">
    <div class="modal-dialog">
     <div class="alert alert-danger">
-     <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+     <button type="button" class="close" data-dismiss="modal" aria-hidden="true">X</button>
      <b>Error:</b>
      <div id="lblerror">...completa llamado...</div>
      <div class="modal-footer">
@@ -107,14 +131,13 @@
 <div class="modal fade" id="modalran">
  <div class="modal-dialog">
   <div id="modalRanTipo">
-   <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+   <button type="button" class="close" data-dismiss="modal" aria-hidden="true">X</button>
    <div id="modalRanMsg">...completa llamado...</div>
  </div>
 </div><!-- /.modal-dialog TIENE QUE IR -->
 </div><!-- /.modal -->
 
 
-<link rel="stylesheet" href="stilos.css">
 
 <script>
  function msgerror(msg,tiempo) {

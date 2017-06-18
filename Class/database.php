@@ -83,6 +83,10 @@
 
   	}
 
+  	public function prepare($sqlselect)	{
+		return $this->datahost->prepare($sqlselect);
+	}
+
 	public function commit(){
 		return $this->datahost->commit();
 	}
